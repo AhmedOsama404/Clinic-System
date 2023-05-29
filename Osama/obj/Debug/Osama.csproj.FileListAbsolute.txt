@@ -1,0 +1,16 @@
+E:\Osama\Osama\bin\Debug\Osama.exe.config
+E:\Osama\Osama\bin\Debug\Osama.exe
+E:\Osama\Osama\bin\Debug\Osama.pdb
+E:\Osama\Osama\obj\Debug\Osama.csproj.AssemblyReference.cache
+E:\Osama\Osama\obj\Debug\Osama.csproj.SuggestedBindingRedirects.cache
+E:\Osama\Osama\obj\Debug\Osama.add_patient.resources
+E:\Osama\Osama\obj\Debug\Osama.dashboard.resources
+E:\Osama\Osama\obj\Debug\Osama.delete_patient.resources
+E:\Osama\Osama\obj\Debug\Osama.Form1.resources
+E:\Osama\Osama\obj\Debug\Osama.patients_data.resources
+E:\Osama\Osama\obj\Debug\Osama.Properties.Resources.resources
+E:\Osama\Osama\obj\Debug\Osama.update_patient.resources
+E:\Osama\Osama\obj\Debug\Osama.csproj.GenerateResource.cache
+E:\Osama\Osama\obj\Debug\Osama.csproj.CoreCompileInputs.cache
+E:\Osama\Osama\obj\Debug\Osama.exe
+E:\Osama\Osama\obj\Debug\Osama.pdb
